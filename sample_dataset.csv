@@ -1,0 +1,13 @@
+text,label,channel
+"URGENT: Your bank account is blocked. Click here to verify your OTP: http://bit.ly/malicious",scam,sms
+"Hey, are we still on for dinner tonight?",safe,whatsapp
+"Congratulations! You've won a $1000 Walmart gift card. Claim your prize here: http://tinyurl.com/win",scam,sms
+"Please review the attached invoice for your recent purchase.",safe,email
+"Your PayPal account has been suspended due to suspicious activity. Verify your identity now: http://paypal-verify-update.com",scam,email
+"Can you send me the presentation slides from yesterday?",safe,telegram
+"You have 1 new voicemail. Click to listen: http://ngrok.io/vmail",scam,sms
+"Mom, my phone is broken. Save my new number and WhatsApp me immediately.",scam,whatsapp
+"Don't forget to buy milk on your way home.",safe,sms
+"INVEST IN CRYPTO NOW! 100x GUARANTEED RETURNS. Join my private channel.",scam,telegram
+"Happy Birthday! Hope you have a wonderful day.",safe,whatsapp
+"Final notice: Pay your outstanding tax bill immediately or a warrant will be issued for your arrest.",scam,sms
